@@ -1,0 +1,37 @@
+15/06/2014
+- fixed using ctrl key on text editor switch
+- fixed 512k max upload limit
+- added error messages to text uploads
+- pastes linked to account if logged in
+- error routing redone to use error.php page
+- private pastes
+16/06/2014
+- max pastes per hour
+- new session id on login
+- too many incorrect logins
+- my pastes
+- delete pastes before they expire
+23/06/2014
+- deleting pastes when view/time limit is reached  // NEEDS CRON JOB
+- pages can now have privelage requirements
+24/06/2014
+- 95% fully responsive
+- fixed paste issue
+- registration uses countdown
+- login load symbol
+25/06/2014
+- syntax loading
+- downloaded files use paste id
+- php files wouldn't work
+- text pastes page title id
+- contact us page & db emails
+- can drop a file directly into the text paste zone
+- some styling issues
+26/06/2014
+- sort my pastes by date (display date as well)
+- dmca
+- privacy policy
+- upload agreement
+- analytics
+- statistics // NEEDS CRON JOB
+- cog does not have its own line anymore
